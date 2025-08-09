@@ -4,6 +4,8 @@ A Next.js application with a form for collecting AI agent ideas.
 
 **Objective**: Implement an AI copilot that appears on the right side of the form and helps users fill the form.
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/80e0ae7b-415d-4de9-9e85-cfbc73e32129" />
+
 ## Current State
 
 - ✅ Form component with name, email, LinkedIn, and idea fields
