@@ -1,7 +1,6 @@
-# AI Agent Form - Copilot Assignment
+# AI Agent Form - Copilot 
 
 A Next.js application with a form for collecting AI agent ideas.
-## Assignment
 
 **Objective**: Implement an AI copilot that appears on the right side of the form and helps users fill the form.
 
