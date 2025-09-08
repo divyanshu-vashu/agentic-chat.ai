@@ -1,4 +1,4 @@
-# AI Agent Form - Copilot 
+# AI Agent Form
 
 A Next.js application with a form for collecting AI agent ideas.
 
